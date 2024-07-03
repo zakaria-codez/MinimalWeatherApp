@@ -1,0 +1,13 @@
+{
+"city":"City",
+"mainTemp":"Temperature",
+"minTemp":"Min temp",
+"maxTemp":"Max temp",
+"weatherCond":"Condition",
+"turnLightMode":"Turn to Light mode",
+"turnDarkMode":"Turn to Dark mode",
+"changeLang" :"change Lang",
+"en":"English",
+"fr":"French",
+"ar":"Arabic"
+}
